@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\0318">
+      <UniqueIdentifier>{be9adbd7-0dd3-4f0b-b992-8966c26c217e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0325">
+      <UniqueIdentifier>{0dfcc248-f18c-4be0-abab-04a42862d1f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0401">
+      <UniqueIdentifier>{a9220aa4-7f10-4d89-9e2c-566b6fea9169}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0408">
+      <UniqueIdentifier>{ee2cfc8a-40e7-4f88-a2f1-6e6aab0ce562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0415">
+      <UniqueIdentifier>{5632ec11-54c8-4209-a7d8-2ed746b98897}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0422">
+      <UniqueIdentifier>{c892f45f-1fc8-44e7-9d31-38aacf877f8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0422exam">
+      <UniqueIdentifier>{eb6f1de6-64bc-4fef-9e80-56a96027686d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\0422">
+      <UniqueIdentifier>{0579671e-d7c8-4967-acdc-6a7372544884}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\0422exam">
+      <UniqueIdentifier>{e89ded4a-5258-4ff6-875c-649a2c5bf792}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2-2.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="2-7.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1-1.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4-1.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge.cpp">
+      <Filter>소스 파일\0318</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\EX_01_0325_1\EX_01_0325_1\3-5-2.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\EX_01_0325_1\EX_01_0325_1\3-5-3.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6-3.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6-2.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8-2.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8-3.cpp">
+      <Filter>소스 파일\0325</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8-4.cpp">
+      <Filter>소스 파일\0401</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8-5.cpp">
+      <Filter>소스 파일\0401</Filter>
+    </ClCompile>
+    <ClCompile Include="3-9.cpp">
+      <Filter>소스 파일\0401</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8-6.cpp">
+      <Filter>소스 파일\0401</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1.cpp">
+      <Filter>소스 파일\0408</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1-1.cpp">
+      <Filter>소스 파일\0408</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1-2.cpp">
+      <Filter>소스 파일\0408</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2.cpp">
+      <Filter>소스 파일\0408</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2-1.cpp">
+      <Filter>소스 파일\0408</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2-2.cpp">
+      <Filter>소스 파일\0408</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2-3.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2-4.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8-4.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8--5.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8-6.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8-7.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8-7-1.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8-7-2.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="8-7-3.cpp">
+      <Filter>소스 파일\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>소스 파일\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleMain.cpp">
+      <Filter>소스 파일\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="box.cpp">
+      <Filter>소스 파일\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="boxMain.cpp">
+      <Filter>소스 파일\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="Adder.cpp">
+      <Filter>소스 파일\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="AdderMain.cpp">
+      <Filter>소스 파일\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator.cpp">
+      <Filter>소스 파일\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="CalculatorMain.cpp">
+      <Filter>소스 파일\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="printerMain.cpp">
+      <Filter>소스 파일\0422exam</Filter>
+    </ClCompile>
+    <ClCompile Include="printer.cpp">
+      <Filter>소스 파일\0422exam</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3-3Circle.h">
+      <Filter>헤더 파일\0422</Filter>
+    </ClInclude>
+    <ClInclude Include="box.h">
+      <Filter>헤더 파일\0422</Filter>
+    </ClInclude>
+    <ClInclude Include="Adder.h">
+      <Filter>헤더 파일\0422</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculator.h">
+      <Filter>헤더 파일\0422</Filter>
+    </ClInclude>
+    <ClInclude Include="printer.h">
+      <Filter>헤더 파일\0422exam</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
